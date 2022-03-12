@@ -1,0 +1,800 @@
+[
+    {
+        "class": "مكية",
+        "id": 1,
+        "name_ar": "الفاتحة",
+        "name_pron_en": "Al-Faatihah",
+        "verses_number": 7
+    },
+    {
+        "class": "مدنية",
+        "id": 2,
+        "name_ar": "البقرة",
+        "name_pron_en": "Al-Baqarah",
+        "verses_number": 286
+    },
+    {
+        "class": "مدنية",
+        "id": 3,
+        "name_ar": "آل عمران",
+        "name_pron_en": "Aal Imraan",
+        "verses_number": 200
+    },
+    {
+        "class": "مدنية",
+        "id": 4,
+        "name_ar": "النساء",
+        "name_pron_en": "An-Nisaa'",
+        "verses_number": 176
+    },
+    {
+        "class": "مدنية",
+        "id": 5,
+        "name_ar": "المائدة",
+        "name_pron_en": "Al-Maa'idah",
+        "verses_number": 120
+    },
+    {
+        "class": "مكية",
+        "id": 6,
+        "name_ar": "الأنعام",
+        "name_pron_en": "Al-An'aam",
+        "verses_number": 165
+    },
+    {
+        "class": "مكية",
+        "id": 7,
+        "name_ar": "الأعراف",
+        "name_pron_en": "Al-Aa'raaf ",
+        "verses_number": 206
+    },
+    {
+        "class": "مدنية",
+        "id": 8,
+        "name_ar": "الأنفال",
+        "name_pron_en": "Al-Anfaal",
+        "verses_number": 75
+    },
+    {
+        "class": "مدنية",
+        "id": 9,
+        "name_ar": "التوبة",
+        "name_pron_en": "At-Tawbah",
+        "verses_number": 129
+    },
+    {
+        "class": "مكية",
+        "id": 10,
+        "name_ar": "يونس",
+        "name_pron_en": "Yoonus",
+        "verses_number": 109
+    },
+    {
+        "class": "مكية",
+        "id": 11,
+        "name_ar": "هود",
+        "name_pron_en": "Hoodh",
+        "verses_number": 123
+    },
+    {
+        "class": "مكية",
+        "id": 12,
+        "name_ar": "يوسف",
+        "name_pron_en": "Yoosuf",
+        "verses_number": 111
+    },
+    {
+        "class": "مدنية",
+        "id": 13,
+        "name_ar": "الرعد",
+        "name_pron_en": "Ar-Ra'd ",
+        "verses_number": 43
+    },
+    {
+        "class": "مكية",
+        "id": 14,
+        "name_ar": "إبراهيم",
+        "name_pron_en": "Ibraaheem ",
+        "verses_number": 52
+    },
+    {
+        "class": "مكية",
+        "id": 15,
+        "name_ar": "الحجر",
+        "name_pron_en": "Al-Hijr ",
+        "verses_number": 99
+    },
+    {
+        "class": "مكية",
+        "id": 16,
+        "name_ar": "النحل",
+        "name_pron_en": "An-Nahl ",
+        "verses_number": 128
+    },
+    {
+        "class": "مكية",
+        "id": 17,
+        "name_ar": "الإسراء",
+        "name_pron_en": "Al-Israa ",
+        "verses_number": 111
+    },
+    {
+        "class": "مكية",
+        "id": 18,
+        "name_ar": "الكهف",
+        "name_pron_en": "Al-Kahf ",
+        "verses_number": 110
+    },
+    {
+        "class": "مكية",
+        "id": 19,
+        "name_ar": "مريم",
+        "name_pron_en": "Maryam",
+        "verses_number": 98
+    },
+    {
+        "class": "مكية",
+        "id": 20,
+        "name_ar": "طه",
+        "name_pron_en": "Taa-Haa ",
+        "verses_number": 135
+    },
+    {
+        "class": "مكية",
+        "id": 21,
+        "name_ar": "الأنبياء",
+        "name_pron_en": "Al-Anbiyaa ",
+        "verses_number": 112
+    },
+    {
+        "class": "مدنية",
+        "id": 22,
+        "name_ar": "الحج",
+        "name_pron_en": "Al-Hajj ",
+        "verses_number": 78
+    },
+    {
+        "class": "مكية",
+        "id": 23,
+        "name_ar": "المؤمنون",
+        "name_pron_en": "Al-Mu'minoon ",
+        "verses_number": 118
+    },
+    {
+        "class": "مدنية",
+        "id": 24,
+        "name_ar": "النور",
+        "name_pron_en": "An-Noor ",
+        "verses_number": 64
+    },
+    {
+        "class": "مكية",
+        "id": 25,
+        "name_ar": "الفرقان",
+        "name_pron_en": "Al-Furqan ",
+        "verses_number": 77
+    },
+    {
+        "class": "مكية",
+        "id": 26,
+        "name_ar": "الشعراء",
+        "name_pron_en": "Ash-Shu'araa' ",
+        "verses_number": 227
+    },
+    {
+        "class": "مكية",
+        "id": 27,
+        "name_ar": "النمل",
+        "name_pron_en": "An-Naml ",
+        "verses_number": 93
+    },
+    {
+        "class": "مكية",
+        "id": 28,
+        "name_ar": "القصص",
+        "name_pron_en": "Al-Qasas ",
+        "verses_number": 88
+    },
+    {
+        "class": "مكية",
+        "id": 29,
+        "name_ar": "العنكبوت",
+        "name_pron_en": "Al-'Ankabut ",
+        "verses_number": 69
+    },
+    {
+        "class": "مكية",
+        "id": 30,
+        "name_ar": "الروم",
+        "name_pron_en": "Ar-Room ",
+        "verses_number": 60
+    },
+    {
+        "class": "مكية",
+        "id": 31,
+        "name_ar": "لقمان",
+        "name_pron_en": "Luqmaan",
+        "verses_number": 34
+    },
+    {
+        "class": "مكية",
+        "id": 32,
+        "name_ar": "السجدة",
+        "name_pron_en": "As-Sajdah",
+        "verses_number": 30
+    },
+    {
+        "class": "مدنية",
+        "id": 33,
+        "name_ar": "الأحزاب",
+        "name_pron_en": "Al-Ahzaab",
+        "verses_number": 73
+    },
+    {
+        "class": "مكية",
+        "id": 34,
+        "name_ar": "سبأ",
+        "name_pron_en": "Saba'",
+        "verses_number": 54
+    },
+    {
+        "class": "مكية",
+        "id": 35,
+        "name_ar": "فاطر",
+        "name_pron_en": "Faatir",
+        "verses_number": 45
+    },
+    {
+        "class": "مكية",
+        "id": 36,
+        "name_ar": "يس",
+        "name_pron_en": "Yaseen",
+        "verses_number": 83
+    },
+    {
+        "class": "مكية",
+        "id": 37,
+        "name_ar": "الصافات",
+        "name_pron_en": "As-Saaffaat",
+        "verses_number": 182
+    },
+    {
+        "class": "مكية",
+        "id": 38,
+        "name_ar": "ص",
+        "name_pron_en": "Saad",
+        "verses_number": 88
+    },
+    {
+        "class": "مكية",
+        "id": 39,
+        "name_ar": "الزمر",
+        "name_pron_en": "Az-Zumar",
+        "verses_number": 75
+    },
+    {
+        "class": "مكية",
+        "id": 40,
+        "name_ar": "غافر",
+        "name_pron_en": "Ghaafir",
+        "verses_number": 85
+    },
+    {
+        "class": "مكية",
+        "id": 41,
+        "name_ar": "فصلت",
+        "name_pron_en": "Fussilat",
+        "verses_number": 54
+    },
+    {
+        "class": "مكية",
+        "id": 42,
+        "name_ar": "الشورى",
+        "name_pron_en": "Ash-Shooraa",
+        "verses_number": 53
+    },
+    {
+        "class": "مكية",
+        "id": 43,
+        "name_ar": "الزخرف",
+        "name_pron_en": "Az-Zukhruf",
+        "verses_number": 89
+    },
+    {
+        "class": "مكية",
+        "id": 44,
+        "name_ar": "الدخان",
+        "name_pron_en": "Ad-Dukhaan",
+        "verses_number": 59
+    },
+    {
+        "class": "مكية",
+        "id": 45,
+        "name_ar": "الجاثية",
+        "name_pron_en": "Al-Jaathiyah",
+        "verses_number": 37
+    },
+    {
+        "class": "مكية",
+        "id": 46,
+        "name_ar": "الأحقاف",
+        "name_pron_en": "Al-Ahqaaf",
+        "verses_number": 35
+    },
+    {
+        "class": "مدنية",
+        "id": 47,
+        "name_ar": "محمد",
+        "name_pron_en": "Muhammad",
+        "verses_number": 38
+    },
+    {
+        "class": "مدنية",
+        "id": 48,
+        "name_ar": "الفتح",
+        "name_pron_en": "Al-Fath",
+        "verses_number": 29
+    },
+    {
+        "class": "مدنية",
+        "id": 49,
+        "name_ar": "الحجرات",
+        "name_pron_en": "Al-Hujuraat",
+        "verses_number": 18
+    },
+    {
+        "class": "مكية",
+        "id": 50,
+        "name_ar": "ق",
+        "name_pron_en": "Qaaf",
+        "verses_number": 45
+    },
+    {
+        "class": "مكية",
+        "id": 51,
+        "name_ar": "الذاريات",
+        "name_pron_en": "Adh-Dhaariyaat",
+        "verses_number": 60
+    },
+    {
+        "class": "مكية",
+        "id": 52,
+        "name_ar": "الطور",
+        "name_pron_en": "At-Toor",
+        "verses_number": 49
+    },
+    {
+        "class": "مكية",
+        "id": 53,
+        "name_ar": "النجم",
+        "name_pron_en": "An-Najm",
+        "verses_number": 62
+    },
+    {
+        "class": "مكية",
+        "id": 54,
+        "name_ar": "القمر",
+        "name_pron_en": "Al-Qamar",
+        "verses_number": 55
+    },
+    {
+        "class": "مدنية",
+        "id": 55,
+        "name_ar": "الرحمن",
+        "name_pron_en": "Ar-Rahman",
+        "verses_number": 78
+    },
+    {
+        "class": "مكية",
+        "id": 56,
+        "name_ar": "الواقعة",
+        "name_pron_en": "Al-Waqi'ah",
+        "verses_number": 96
+    },
+    {
+        "class": "مدنية",
+        "id": 57,
+        "name_ar": "الحديد",
+        "name_pron_en": "Al-Hadeed",
+        "verses_number": 29
+    },
+    {
+        "class": "مدنية",
+        "id": 58,
+        "name_ar": "المجادلة",
+        "name_pron_en": "Al-Mujadila",
+        "verses_number": 22
+    },
+    {
+        "class": "مدنية",
+        "id": 59,
+        "name_ar": "الحشر",
+        "name_pron_en": "Al-Hashr",
+        "verses_number": 24
+    },
+    {
+        "class": "مدنية",
+        "id": 60,
+        "name_ar": "الممتحنة",
+        "name_pron_en": "Al-Mumtahinah",
+        "verses_number": 13
+    },
+    {
+        "class": "مدنية",
+        "id": 61,
+        "name_ar": "الصف",
+        "name_pron_en": "As-Saff",
+        "verses_number": 14
+    },
+    {
+        "class": "مدنية",
+        "id": 62,
+        "name_ar": "الجمعة",
+        "name_pron_en": "Al-Jumu'aah",
+        "verses_number": 11
+    },
+    {
+        "class": "مدنية",
+        "id": 63,
+        "name_ar": "المنافقون",
+        "name_pron_en": "Al-Munafiqoon",
+        "verses_number": 11
+    },
+    {
+        "class": "مدنية",
+        "id": 64,
+        "name_ar": "التغابن",
+        "name_pron_en": "At-Taghabun",
+        "verses_number": 18
+    },
+    {
+        "class": "مدنية",
+        "id": 65,
+        "name_ar": "الطلاق",
+        "name_pron_en": "At-Talaq",
+        "verses_number": 12
+    },
+    {
+        "class": "مدنية",
+        "id": 66,
+        "name_ar": "التحريم",
+        "name_pron_en": "At-Tahreem",
+        "verses_number": 12
+    },
+    {
+        "class": "مكية",
+        "id": 67,
+        "name_ar": "الملك",
+        "name_pron_en": "Al-Mulk",
+        "verses_number": 30
+    },
+    {
+        "class": "مكية",
+        "id": 68,
+        "name_ar": "القلم",
+        "name_pron_en": "Al-Qalam",
+        "verses_number": 52
+    },
+    {
+        "class": "مكية",
+        "id": 69,
+        "name_ar": "الحاقة",
+        "name_pron_en": "Al-Haaqqahh",
+        "verses_number": 52
+    },
+    {
+        "class": "مكية",
+        "id": 70,
+        "name_ar": "المعارج",
+        "name_pron_en": "Al-Ma'aarij",
+        "verses_number": 44
+    },
+    {
+        "class": "مكية",
+        "id": 71,
+        "name_ar": "نوح",
+        "name_pron_en": "Nooh",
+        "verses_number": 28
+    },
+    {
+        "class": "مكية",
+        "id": 72,
+        "name_ar": "الجن",
+        "name_pron_en": "Al-Jinn",
+        "verses_number": 28
+    },
+    {
+        "class": "مكية",
+        "id": 73,
+        "name_ar": "المزمل",
+        "name_pron_en": "Al-Muzzammil",
+        "verses_number": 20
+    },
+    {
+        "class": "مكية",
+        "id": 74,
+        "name_ar": "المدثر",
+        "name_pron_en": "Al-Muddaththir",
+        "verses_number": 56
+    },
+    {
+        "class": "مكية",
+        "id": 75,
+        "name_ar": "القيامة",
+        "name_pron_en": "Al-Qiyamahh",
+        "verses_number": 40
+    },
+    {
+        "class": "مدنية",
+        "id": 76,
+        "name_ar": "الإنسان",
+        "name_pron_en": "Al-Insaan",
+        "verses_number": 31
+    },
+    {
+        "class": "مكية",
+        "id": 77,
+        "name_ar": "المرسلات",
+        "name_pron_en": "Al-Mursalaat",
+        "verses_number": 50
+    },
+    {
+        "class": "مكية",
+        "id": 78,
+        "name_ar": "النبأ",
+        "name_pron_en": "An-Naba'",
+        "verses_number": 40
+    },
+    {
+        "class": "مكية",
+        "id": 79,
+        "name_ar": "النازعات",
+        "name_pron_en": "An-Naazi'aat",
+        "verses_number": 46
+    },
+    {
+        "class": "مكية",
+        "id": 80,
+        "name_ar": "عبس",
+        "name_pron_en": "Abasa",
+        "verses_number": 42
+    },
+    {
+        "class": "مكية",
+        "id": 81,
+        "name_ar": "التكوير",
+        "name_pron_en": "At-Takweer",
+        "verses_number": 29
+    },
+    {
+        "class": "مكية",
+        "id": 82,
+        "name_ar": "الانفطار",
+        "name_pron_en": "Al-Infitar",
+        "verses_number": 19
+    },
+    {
+        "class": "مكية",
+        "id": 83,
+        "name_ar": "المطففين",
+        "name_pron_en": "Al-Mutaffifeen",
+        "verses_number": 36
+    },
+    {
+        "class": "مكية",
+        "id": 84,
+        "name_ar": "الانشقاق",
+        "name_pron_en": "Al-Inshiqaaq",
+        "verses_number": 25
+    },
+    {
+        "class": "مكية",
+        "id": 85,
+        "name_ar": "البروج",
+        "name_pron_en": "Al-Burooj",
+        "verses_number": 22
+    },
+    {
+        "class": "مكية",
+        "id": 86,
+        "name_ar": "الطارق",
+        "name_pron_en": "At-Taariq",
+        "verses_number": 17
+    },
+    {
+        "class": "مكية",
+        "id": 87,
+        "name_ar": "الأعلى",
+        "name_pron_en": "Al-A'laa",
+        "verses_number": 19
+    },
+    {
+        "class": "مكية",
+        "id": 88,
+        "name_ar": "الغاشية",
+        "name_pron_en": "Al-Ghaashiyah",
+        "verses_number": 26
+    },
+    {
+        "class": "مكية",
+        "id": 89,
+        "name_ar": "الفجر",
+        "name_pron_en": "Al-Fajr",
+        "verses_number": 30
+    },
+    {
+        "class": "مكية",
+        "id": 90,
+        "name_ar": "البلد",
+        "name_pron_en": "Al-Balad",
+        "verses_number": 20
+    },
+    {
+        "class": "مكية",
+        "id": 91,
+        "name_ar": "الشمس",
+        "name_pron_en": "Ash-Shams",
+        "verses_number": 15
+    },
+    {
+        "class": "مكية",
+        "id": 92,
+        "name_ar": "الليل",
+        "name_pron_en": "Al-Layl",
+        "verses_number": 21
+    },
+    {
+        "class": "مكية",
+        "id": 93,
+        "name_ar": "الضحى",
+        "name_pron_en": "Ad-Dhuha",
+        "verses_number": 11
+    },
+    {
+        "class": "مكية",
+        "id": 94,
+        "name_ar": "الشرح",
+        "name_pron_en": "Ash-Sharh",
+        "verses_number": 8
+    },
+    {
+        "class": "مكية",
+        "id": 95,
+        "name_ar": "التين",
+        "name_pron_en": "At-Teen",
+        "verses_number": 8
+    },
+    {
+        "class": "مكية",
+        "id": 96,
+        "name_ar": "العلق",
+        "name_pron_en": "Al-Alaq",
+        "verses_number": 19
+    },
+    {
+        "class": "مكية",
+        "id": 97,
+        "name_ar": "القدر",
+        "name_pron_en": "Al-Qadr",
+        "verses_number": 5
+    },
+    {
+        "class": "مدنية",
+        "id": 98,
+        "name_ar": "البينة",
+        "name_pron_en": "Al-Bayyinahh",
+        "verses_number": 8
+    },
+    {
+        "class": "مدنية",
+        "id": 99,
+        "name_ar": "الزلزلة",
+        "name_pron_en": "Az-Zalzalah",
+        "verses_number": 8
+    },
+    {
+        "class": "مكية",
+        "id": 100,
+        "name_ar": "العاديات",
+        "name_pron_en": "Al-'Aadiyaat",
+        "verses_number": 11
+    },
+    {
+        "class": "مكية",
+        "id": 101,
+        "name_ar": "القارعة",
+        "name_pron_en": "Al-Qaari'ah",
+        "verses_number": 11
+    },
+    {
+        "class": "مكية",
+        "id": 102,
+        "name_ar": "التكاثر",
+        "name_pron_en": "At-Takaathur",
+        "verses_number": 8
+    },
+    {
+        "class": "مكية",
+        "id": 103,
+        "name_ar": "العصر",
+        "name_pron_en": "Al-'Asr",
+        "verses_number": 3
+    },
+    {
+        "class": "مكية",
+        "id": 104,
+        "name_ar": "الهمزة",
+        "name_pron_en": "Al-Humazah",
+        "verses_number": 9
+    },
+    {
+        "class": "مكية",
+        "id": 105,
+        "name_ar": "الفيل",
+        "name_pron_en": "Al-Feel",
+        "verses_number": 5
+    },
+    {
+        "class": "مكية",
+        "id": 106,
+        "name_ar": "قريش",
+        "name_pron_en": "Quraysh",
+        "verses_number": 4
+    },
+    {
+        "class": "مكية",
+        "id": 107,
+        "name_ar": "الماعون",
+        "name_pron_en": "Al-Maa'oon",
+        "verses_number": 7
+    },
+    {
+        "class": "مكية",
+        "id": 108,
+        "name_ar": "الكوثر",
+        "name_pron_en": "Al-Kawthar",
+        "verses_number": 3
+    },
+    {
+        "class": "مكية",
+        "id": 109,
+        "name_ar": "الكافرون",
+        "name_pron_en": "Al-Kaafiroon",
+        "verses_number": 6
+    },
+    {
+        "class": "مدنية",
+        "id": 110,
+        "name_ar": "النصر",
+        "name_pron_en": "An-Nasr",
+        "verses_number": 3
+    },
+    {
+        "class": "مكية",
+        "id": 111,
+        "name_ar": "المسد",
+        "name_pron_en": "Al-Masad",
+        "verses_number": 5
+    },
+    {
+        "class": "مكية",
+        "id": 112,
+        "name_ar": "الإخلاص",
+        "name_pron_en": "Al-Ikhlaas",
+        "verses_number": 4
+    },
+    {
+        "class": "مكية",
+        "id": 113,
+        "name_ar": "الفلق",
+        "name_pron_en": "Al-Falaq",
+        "verses_number": 5
+    },
+    {
+        "class": "مكية",
+        "id": 114,
+        "name_ar": "الناس",
+        "name_pron_en": "Al-Naas",
+        "verses_number": 6
+    }
+]
