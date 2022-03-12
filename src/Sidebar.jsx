@@ -2,7 +2,7 @@
 function Sidebar() {
 
     return (
-        <div className="sidebar p-6">
+        <div className="sidebar p-5">
             <ul className="flex flex-col gap-4">
                 <li className="inline-flex justify-center">
                     <a href="" className="bg-green-200 rounded-full p-3">
